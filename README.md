@@ -1,4 +1,4 @@
-# Rev_iter
+# Reverse_using_iteration
 This repository reverses a string entered by user using the iterative approach.
 We call a function to reverse a string, which iterates to every element using for loop and joins each character in the beginning so as to obtain the reversed string. 
 
